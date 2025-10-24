@@ -2,7 +2,7 @@
 
 Code for the DAC'24 paper  *Hardware-Aware Neural Dropout Search for Reliable Uncertainty Prediction on FPGA*
 
-The code main refer to the codebase (https://github.com/hmarkc/MCME_FPGA_Acc). 
+This code is primarily based on the codebase from (https://github.com/hmarkc/MCME_FPGA_Acc). 
 
 
 ## Software
